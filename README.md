@@ -1,2 +1,2 @@
-# ev-uptake
+# postcode-to-plug
 Exploring Australian EV uptake projections with Python and interactive geographic visualisations
